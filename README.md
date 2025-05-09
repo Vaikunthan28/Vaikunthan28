@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaikunthan Paramananthasivam</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer Graduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning Python, Cyber Security concepts**
+- 🌱 I’m currently learning **Python, Cyber Security concepts**
 
 - 💬 Ask me about **DevOps, Cloud**
 
