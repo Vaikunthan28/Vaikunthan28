@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vaikunthan Paramananthasivam</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer Graduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning Python, ML concepts, Deep Learning**
+- 🌱 I’m currently learning Python, Cyber Security concepts**
 
-- 💬 Ask me about **DevOps, Cloud, Deep Learning**
+- 💬 Ask me about **DevOps, Cloud**
 
 - 📫 How to reach me **pvaikunthan@gmail.com**
 
