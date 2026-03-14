@@ -34,16 +34,13 @@ DevOps Engineer passionate about infrastructure automation, containerization, an
 🌟 Fun Facts & Interests
 
 🔧 Passionate about turning chaos into infrastructure order
-📚 Lifelong learner exploring Vedic astrology in spare time ✨
+
 🎯 Dream project: Building and selling Micro SaaS tools
-💬 Daily English speaking practice (1-minute speeches!)
+
 🐧 Linux enthusiast with a soft spot for elegant automation
 ☸️ Kubernetes troubleshooting is my superpower
+
 🚀 Always excited to discuss infrastructure challenges!
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaikunthan28&show_icons=true&locale=en&layout=compact" alt="Vaikunthan28" /></p>
 
