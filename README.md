@@ -17,6 +17,8 @@ DevOps Engineer passionate about infrastructure automation, containerization, an
 📄 Know about my experiences https://www.linkedin.com/in/vaik/
 
 
+
+
 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
@@ -38,6 +40,7 @@ DevOps Engineer passionate about infrastructure automation, containerization, an
 🎯 Dream project: Building and selling Micro SaaS tools
 
 🐧 Linux enthusiast with a soft spot for elegant automation
+
 ☸️ Kubernetes troubleshooting is my superpower
 
 🚀 Always excited to discuss infrastructure challenges!
